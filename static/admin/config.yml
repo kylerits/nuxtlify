@@ -1,5 +1,6 @@
 backend:
   name: git-gateway
+  identity_url: "https://wonderful-panini-d38c46.netlify.com/.netlify/identity"
   branch: master # Branch to update (optional; defaults to master)
 
 publish_mode: editorial_workflow
