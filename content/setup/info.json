@@ -1,0 +1,16 @@
+{
+  "sitename": "Nuxtlify",
+  "sitedescription": "An integration of Nuxt with Netlify CMS",
+  "siteicon": "/images/uploads/pexels-photo.jpg",
+  "showmenu": true,
+  "menu": [
+    {
+      "name": "Home",
+      "link": "/"
+    },
+    {
+      "name": "About",
+      "link": "/about"
+    }
+  ]
+}
